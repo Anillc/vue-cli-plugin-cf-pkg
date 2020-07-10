@@ -1,0 +1,14 @@
+{
+  "name": "cf",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "coffee-loader": "^1.0.0",
+    "coffeescript": "^2.5.1",
+    "webpack": "^4.43.0"
+  },
+  "dependencies": {
+    "@cfworker/web": "^1.2.18"
+  }
+}

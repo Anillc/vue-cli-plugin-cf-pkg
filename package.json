@@ -1,0 +1,13 @@
+{
+  "name": "vue-cli-plugin-cf-pkg",
+  "version": "1.1.0",
+  "description": "将vue项目打包为cloudflare worker",
+  "main": "index.js",
+  "repository": "https://github.com/Anillc/vue-cli-plugin-cf-pkg",
+  "author": "Anillc",
+  "license": "MIT",
+  "dependencies": {
+    "mime-types": "^2.1.27",
+    "shelljs": "^0.8.4"
+  }
+}

@@ -1,6 +1,6 @@
 # vue-cli-plugin-cf-pkg  
 
-将你的vue项目打包为cloudflare workers的js中  
+将你的vue项目打包为cloudflare workers  
 
 并且不需要pro的KV文件储存（文件存在js里）  
 
